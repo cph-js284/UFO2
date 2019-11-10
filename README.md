@@ -42,7 +42,7 @@ Included in the timing is all the setup the tally-method requires to run this me
 
 
 # Console output
-This is the most important snippet from the console output - the entire dump is available in the included output.txt file
+This is the most important snippet from the console output - the entire dump is available in the included [output.txt file](https://github.com/cph-js284/UFO2/blob/master/output.txt)
 ```
 *******************************************************
 USING ORIGINAL TALLY METHOD - MARK5 TIMING
